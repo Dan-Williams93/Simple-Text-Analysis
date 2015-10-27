@@ -1,0 +1,16 @@
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.exe
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\bin\Debug\TextFileInput.txt
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\bin\Debug\testAssignment.exe
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\bin\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\obj\x86\Debug\ResolveAssemblyReference.cache
+\\srv124\Students$\266698\My Documents\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.exe
+\\srv124\Students$\266698\My Documents\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\bin\Debug\TextFileInput.txt
+\\srv124\Students$\266698\My Documents\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\bin\Debug\testAssignment.exe
+\\srv124\Students$\266698\My Documents\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\bin\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.exe
+H:\HND\Software Development\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.pdb
+C:\Users\Daniel\Documents\Education\HND Computer Science\Year 1\Software Development\PDF Files\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.exe
+C:\Users\Daniel\Documents\Education\HND Computer Science\Year 1\Software Development\PDF Files\DanielWilliams-266698-CMP1001M-A1\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.pdb

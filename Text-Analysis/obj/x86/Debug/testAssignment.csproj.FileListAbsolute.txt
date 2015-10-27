@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\Programming Projects\testAssignment\testAssignment\bin\Debug\testAssignment.exe
+C:\Users\Daniel\Documents\Programming Projects\testAssignment\testAssignment\bin\Debug\testAssignment.pdb
+C:\Users\Daniel\Documents\Programming Projects\testAssignment\testAssignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Programming Projects\testAssignment\testAssignment\obj\x86\Debug\testAssignment.exe
+C:\Users\Daniel\Documents\Programming Projects\testAssignment\testAssignment\obj\x86\Debug\testAssignment.pdb
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\obj\x86\Debug\testAssignment.exe
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\obj\x86\Debug\testAssignment.pdb
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\bin\Debug\testAssignment.exe
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\bin\Debug\testAssignment.pdb
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\obj\x86\Debug\ResolveAssemblyReference.cache

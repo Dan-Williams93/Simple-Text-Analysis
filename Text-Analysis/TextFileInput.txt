@@ -1,0 +1,5 @@
+﻿This is a line of text to be analysed by the system.  It should allow a large amount of counting to take place.
+I would expect that excessively
+long words are collected.
+Should the user not think about the size of the variables then there will be a serious problem with their program.
+I don't think this will be enough to cause a problem do you?

@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\bin\Debug\testAssignment.exe
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\bin\Debug\testAssignment.pdb
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\obj\x86\Debug\testAssignment.exe
+C:\Users\Daniel\Documents\Programming Projects\Assignment with array\testAssignment\obj\x86\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\Assignment\testAssignment\obj\x86\Debug\testAssignment.exe
+\\srv124\Students$\266698\My Documents\HND\Software Development\Assignment\testAssignment\obj\x86\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\Assignment\testAssignment\bin\Debug\testAssignment.exe
+\\srv124\Students$\266698\My Documents\HND\Software Development\Assignment\testAssignment\bin\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\Assignment\testAssignment\obj\x86\Debug\ResolveAssemblyReference.cache
+\\srv124\Students$\266698\My Documents\HND\Software Development\Assignment\testAssignment\bin\Debug\TextFileInput.txt
+H:\HND\Software Development\Assignment\testAssignment\obj\x86\Debug\testAssignment.exe
+H:\HND\Software Development\Assignment\testAssignment\obj\x86\Debug\testAssignment.pdb
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.exe
+\\srv124\Students$\266698\My Documents\HND\Software Development\Software Development - CMP1001M\Part B\Executable Program File\testAssignment\obj\x86\Debug\testAssignment.pdb
