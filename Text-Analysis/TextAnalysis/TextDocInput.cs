@@ -11,8 +11,9 @@ namespace testAssignment
         private static string file = @"TextFileInput.txt";
         private string text = File.ReadAllText(file);           //reads text file into program
               
-        public void TextFile()
+        public void TextFile(string filePath)
         {
+            string pFilePath = filePath;
             Analysis txtAn = new Analysis();                    //creates a new object of analysis
             WriteToDoc wtd = new WriteToDoc();                  
             
@@ -24,8 +25,9 @@ namespace testAssignment
             txtAn.LowerCount(text); 
             txtAn.UpperCount(text); 
             txtAn.SentenceCount(text); 
-            wtd.LongWords(text); 
             txtAn.Letterfrequency(text);
+            wtd.LongWords(text, pFilePath); 
+            
         }
     }
 }

@@ -13,8 +13,9 @@ namespace testAssignment
         private string text;                 //holds users input
         private int textLoop = 1;            //holds value for input loop
 
-        public void UserTextEntry()
+        public void UserTextEntry(string filePath)
         {
+            string pFilePath = filePath;
             textLoop = 1; //sets text loop back to 1
             userText = "";
             text = "";
@@ -41,7 +42,7 @@ namespace testAssignment
             textAn.UpperCount(userText);                    //calls upper case count method from analysis and passes users text
             textAn.SentenceCount(userText);                 //calls sentence count method from analysis and passes users text
             textAn.Letterfrequency(userText);               //calls letter frequency method from analysis object and passes users text
-            wtd.LongWords(userText);                        //calls LongWords method from wtd object and passes users text
+            wtd.LongWords(userText, pFilePath);             //calls LongWords method from wtd object and passes users text
 
         }
     }

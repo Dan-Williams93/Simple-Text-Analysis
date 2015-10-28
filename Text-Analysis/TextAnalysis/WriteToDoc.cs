@@ -8,11 +8,13 @@ namespace testAssignment
 {
     class WriteToDoc
     {
-        private string writeFile = @"H:\writeFile.txt";                                                //holds location of write to file
+        //private string writeFile = @"C:\Users\Daniel\Documents\writeFile.txt";  
+                                                                           //holds location of write to file
         private string longWords = "";                                                                 //holds list of words with 7 ormore characters
 
-        public void LongWords(string text)
+        public void LongWords(string text, string filePath)
         {
+            string writeFile = @"" + filePath + "longWords.txt";
             string[] words = text.Split(' ', '.', '*', '?', '!', '"', ',', ':', ';', '(', ')', '\'', '\r', '\n', '\t' ); //splits tect file at specified symbol and stored each word in an array
 
             foreach (string w in words)                                                                                  //executed for each word stored in the words array

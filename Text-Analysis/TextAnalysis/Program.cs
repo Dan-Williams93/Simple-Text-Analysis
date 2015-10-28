@@ -16,6 +16,10 @@ namespace testAssignment
             string usersChoice;                     //holds choice inputted by the user
             int errorLoop = 1;                      //holds value of error loop
             int programLoop = 1;                    //holds value of program loop
+            string filePath = "";
+
+            Console.WriteLine("Please input the loction you would like the long words to be outputted to\n This must be a specific file path to the folder location, please end with back slash");
+            filePath = Console.ReadLine();
 
             while (programLoop <= 1)                //loop that executes if the loop value is less than or equal to 1
             {
@@ -29,7 +33,7 @@ namespace testAssignment
                         if (usersChoice == "1")                                      //executed if user enters 1
                         {
                             errorLoop = errorLoop + 1;                               //adds one to error loop, stopping the loop from executing 
-                            userEnt.UserTextEntry();                                 //calls userTextEntry method                     
+                            userEnt.UserTextEntry(filePath);                                 //calls userTextEntry method                     
                         }
                         else
                         {
@@ -37,7 +41,7 @@ namespace testAssignment
                             {
                                 errorLoop = errorLoop + 1;                           //adds 1 to error loop
                                 Console.WriteLine("\nYou have chosen option 2\n");   //output
-                                textDoc.TextFile();                                  //calls TextFile method
+                                textDoc.TextFile(filePath);                                  //calls TextFile method
                             }
                             else
                             {
