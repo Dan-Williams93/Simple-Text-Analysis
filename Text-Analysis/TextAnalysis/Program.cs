@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
@@ -18,7 +17,7 @@ namespace testAssignment
             int programLoop = 1;                    //holds value of program loop
             string filePath = "";
 
-            Console.WriteLine("Please input the loction you would like the long words to be outputted to\n This must be a specific file path to the folder location, please end with back slash");
+            Console.WriteLine("Please input the location you would like the long words to be outputted to\n This must be a specific file path to the folder location, please end with back slash");
             filePath = Console.ReadLine();
 
             while (programLoop <= 1)                //loop that executes if the loop value is less than or equal to 1
